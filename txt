@@ -1,8 +1,3 @@
-
-
-	Page No[ 1 ]
-
-image           https://Crax.Pro/DeepNet
 https://api2.alphaex.net/images/user/kyc/1630490172611_16382_2e59e55e4b0d3185100119a00b1c9749_1.jpg
 https://api2.alphaex.net/images/user/kyc/1630490172611_16382_c593bdd13083e2aac448fb5f9b2fa44d_2.jpg
 https://api2.alphaex.net/images/user/kyc/1630490172611_16382_71df1d95be86069beae99194fa817f09_3.jpg
@@ -45,9 +40,6 @@ https://api2.alphaex.net/images/user/kyc/1616996433591_20060_fa08c594aef918e3330
 https://api2.alphaex.net/images/user/kyc/1608437680746_16721_63ae5246ec2c08d447303e2c80fb8d94_2.jpg
 https://api2.alphaex.net/images/user/kyc/1608437680746_16721_d0465340daf9e19290250fd5063419ec_1.jpg
 https://api2.alphaex.net/images/user/kyc/1608437680746_16721_e4e6d99317bcf16abc9c61da6a37a1e6_3.jpg
-
-	Page No[ 2 ]
-
 https://api2.alphaex.net/images/user/kyc/1618827458969_20369_563b5b32bbd4ac7ccd8593556b87d566_3.jpeg
 https://api2.alphaex.net/images/user/kyc/1618827458969_20369_2f2470b43bcc47e3e343c153a0a3ffba_2.jpg
 https://api2.alphaex.net/images/user/kyc/1618827458969_20369_962e65bdf756ccab371d31a94b592269_1.jpeg
@@ -91,9 +83,6 @@ https://api2.alphaex.net/images/user/kyc/1620875581181_20695_07714135df2757f0825
 https://api2.alphaex.net/images/user/kyc/1620875581181_20695_b2ac10ea511b8c0b18fb2212a14c30c9_2.jpg
 https://api2.alphaex.net/images/user/kyc/1620875581181_20695_8cfe5f47fbf7166ced1d7117a7b10dd2_3.jpg
 https://api2.alphaex.net/images/user/kyc/1613143286720_17970_94206a9c8a1a8c47567cc1df53c3e19c_2.jpg
-
-	Page No[ 3 ]
-
 https://api2.alphaex.net/images/user/kyc/1613143286720_17970_d862f1bcbc665991a33d63f6cf247388_1.jpg
 https://api2.alphaex.net/images/user/kyc/1613143286720_17970_179d3fbd02f6c0cdcd6ebd231352731a_3.jpg
 https://api2.alphaex.net/images/user/kyc/1591206063957_14048_2127175a4d7f9bdc2ee113af14ce203c_3.jfif
@@ -137,9 +126,6 @@ https://api2.alphaex.net/images/user/kyc/1625259749718_20878_3727f434045cf4e1c59
 https://api2.alphaex.net/images/user/kyc/1625259749718_20878_81a248a57538bd63f2089269eac330e4_2.jpg
 https://api2.alphaex.net/images/user/kyc/1593250291254_14475_c3dffe7c135c41f6a9155ac8279a0635_3.jpg
 https://api2.alphaex.net/images/user/kyc/1593250291254_14475_e56176a2b558404432e022f65e1b0a60_2.jpg
-
-	Page No[ 4 ]
-
 https://api2.alphaex.net/images/user/kyc/1593250291254_14475_70c726230dad4c533e1bd1eaeff342b2_1.jpg
 https://api2.alphaex.net/images/user/kyc/1613115157114_18541_15d1538a81116d7bf23ddb2463bcaef0_3.jpeg
 https://api2.alphaex.net/images/user/kyc/1613115157114_18541_f69760feee1271aa1917306d9b7c8ab6_2.jpeg
@@ -183,9 +169,6 @@ https://api2.alphaex.net/images/user/kyc/1599657775122_2252_462bd525c9786c59afc6
 https://api2.alphaex.net/images/user/kyc/1613635834851_19017_343717fc5ec954bfeee0c1afc7afabe9_1.jpg
 https://api2.alphaex.net/images/user/kyc/1613635834929_19017_ba879005011fce23c0de61d4fd56d562_3.jpg
 https://api2.alphaex.net/images/user/kyc/1613635834913_19017_13e28ea1fe7b026db1a19da124085178_2.jpg
-
-	Page No[ 5 ]
-
 https://api2.alphaex.net/images/user/kyc/1613339742329_18578_d0055daa9a35bd9c8a3a3919bcc6ec61_1.jpg
 https://api2.alphaex.net/images/user/kyc/1613339742345_18578_953a4c9d37b4d0bc146ae8f7cca0cc79_3.jpg
 https://api2.alphaex.net/images/user/kyc/1613339742345_18578_9d689e2d1f3cb0778ab5dd1c65709a7a_2.jpg
@@ -229,9 +212,6 @@ https://api2.alphaex.net/images/user/kyc/1609053959471_14852_dee689dde8c5c011b06
 https://api2.alphaex.net/images/user/kyc/1609053959471_14852_f6f97359d69f117f8ea2648b0ed9ec2f_3.jpeg
 https://api2.alphaex.net/images/user/kyc/1609053959424_14852_cc85dfb37aebfeda5341fd979866767f_1.jpeg
 https://api2.alphaex.net/images/user/kyc/1615655774329_17319_0f95edd30d333c24bf6e369eb953c753_1.jpg
-
-	Page No[ 6 ]
-
 https://api2.alphaex.net/images/user/kyc/1615655774361_17319_66bee124f08998275bee4f6cb3c63a0b_3.jpg
 https://api2.alphaex.net/images/user/kyc/1615655774344_17319_e255e08a0bb616d1121f442fac63f0da_2.jpg
 https://api2.alphaex.net/images/user/kyc/1597685990677_15040_ba659dd68fdd61430d44c8e1e53eb7f3_2.jpg
